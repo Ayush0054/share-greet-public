@@ -1,2 +1,1 @@
-- https://share-greet-9c6j.vercel.app/
-- https://www.youtube.com/watch?v=TF3FS33yBlQ&t=1s
+[Screencast from 27-05-24 10:26:59 AM IST.webm](https://github.com/Ayush0054/share-greet-public/assets/97244608/c6b33fca-e8e4-477e-a7a7-3087fb7e7833)
